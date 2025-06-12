@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Hola Mundo!\n");
 
     int arreglo[10];
 
